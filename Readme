@@ -1,0 +1,44 @@
+This project is divided into two parts:
+
+- **Question 1**: Backend API that calculates the average of an array of numbers.
+- **Question 2**: React frontend that sends data to the backend and displays the average.
+
+---
+
+## Question 1: Backend (Average Calculator API)
+
+### Tech Stack:
+- Node.js
+- Express (no external algorithm libraries used)
+
+### Setup & Run:
+
+1. Navigate to the `question1` folder:
+
+   cd question1
+
+2. Instal dependencies:
+    npm install
+
+
+3. Start the server:
+    node index.js
+
+4. The server will run on http://localhost:3000.
+
+
+
+## Question 2: Frontend (React App)
+
+1. Navigate to the `question2` folder:
+
+   cd question2
+
+2. Instal dependencies:
+    npm install
+
+
+3. Start the server:
+    npm start
+
+4. The server will run on http://localhost:3001.
